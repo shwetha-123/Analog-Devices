@@ -26,5 +26,5 @@ The program takes a directory and extension as arguments. The program would sear
 4)  To run unit test cases, the following steps should be followed
      - Create directory structure starting with TestRoot by unzippig the TestRoot.zip file
      - Change current directory to the newly created TestRoot directory
-     - Go tothe terminal of the IDSE and execute the command "pytest <file_name> . Eg. pytest test_get_file_list.pyt
+     - Go tothe terminal of the IDSE and execute the command "pytest <file_name> . Eg. pytest test_get_file_list.py
     
