@@ -18,7 +18,7 @@ The program takes a directory and extension as arguments. The program would sear
 
 ##Instructions
 
-1)	Ensure that Pytest is installed . 
+1)	Ensure that pytest is installed . 
 2)	Ensure that the path is set to include directory containing python and pytest executables used
 3)  To run the program, the following steps should be followed
      - Go to terminal of the IDE
