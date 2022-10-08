@@ -110,10 +110,10 @@ def format_file_name(file_name,directory):
     file_prefix = "."
     back_slash = "\\"
     norm_slash = "/"
-    print (file_name)
+    
     file_name = file_prefix + file_name.replace(directory, "")
     file_name = file_name.replace(back_slash, norm_slash)
-    print(file_name)
+    
     return  file_name
 
 
